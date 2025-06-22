@@ -1,3 +1,1 @@
-"# bot.py" 
-"# bot.py" 
-"# Python.py" 
+"# Coin.bot" 
